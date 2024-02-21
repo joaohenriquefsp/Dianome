@@ -1,0 +1,11 @@
+C:\Users\João Henrique\Desktop\JH\dontnet projects\Dianome\Dianome.Model\bin\Debug\net7.0\Dianome.Model.deps.json
+C:\Users\João Henrique\Desktop\JH\dontnet projects\Dianome\Dianome.Model\bin\Debug\net7.0\Dianome.Model.dll
+C:\Users\João Henrique\Desktop\JH\dontnet projects\Dianome\Dianome.Model\bin\Debug\net7.0\Dianome.Model.pdb
+C:\Users\João Henrique\Desktop\JH\dontnet projects\Dianome\Dianome.Model\obj\Debug\net7.0\Dianome.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Henrique\Desktop\JH\dontnet projects\Dianome\Dianome.Model\obj\Debug\net7.0\Dianome.Model.AssemblyInfoInputs.cache
+C:\Users\João Henrique\Desktop\JH\dontnet projects\Dianome\Dianome.Model\obj\Debug\net7.0\Dianome.Model.AssemblyInfo.cs
+C:\Users\João Henrique\Desktop\JH\dontnet projects\Dianome\Dianome.Model\obj\Debug\net7.0\Dianome.Model.csproj.CoreCompileInputs.cache
+C:\Users\João Henrique\Desktop\JH\dontnet projects\Dianome\Dianome.Model\obj\Debug\net7.0\Dianome.Model.dll
+C:\Users\João Henrique\Desktop\JH\dontnet projects\Dianome\Dianome.Model\obj\Debug\net7.0\refint\Dianome.Model.dll
+C:\Users\João Henrique\Desktop\JH\dontnet projects\Dianome\Dianome.Model\obj\Debug\net7.0\Dianome.Model.pdb
+C:\Users\João Henrique\Desktop\JH\dontnet projects\Dianome\Dianome.Model\obj\Debug\net7.0\ref\Dianome.Model.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Dianome.Aplication/1.0.0": {
+        "dependencies": {
+          "Dianome.Model": "1.0.0"
+        },
+        "runtime": {
+          "Dianome.Aplication.dll": {}
+        }
+      },
+      "Dianome.Model/1.0.0": {
+        "runtime": {
+          "Dianome.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dianome.Aplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dianome.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

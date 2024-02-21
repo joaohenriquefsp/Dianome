@@ -1,0 +1,7 @@
+POST http://localhost:5152/entregador
+Content-Type: application/json
+
+{
+    "Nome": "joao",
+    "Cpf": "12312843912"
+}
